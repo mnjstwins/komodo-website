@@ -157,54 +157,6 @@
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/downloads/pages/6/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/downloads/pages/5/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/downloads/pages/4/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/downloads/pages/3/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/downloads/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/macros/pages/2/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/popular/pages/6/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/popular/pages/5/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/download/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2113,7 +2065,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/3/</loc>
+    <loc>http://komodoide.com/resources/addons/agroszer--qwin/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2551,12 +2503,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/popular/pages/4/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/blog/pages/2/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2641,7 +2587,61 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/agroszer--qwin/</loc>
+    <loc>http://komodoide.com/resources/popular/pages/3/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/popular/pages/4/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/popular/pages/5/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/popular/pages/6/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/macros/pages/2/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/pages/2/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/pages/3/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/pages/4/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/pages/5/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/downloads/pages/6/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
