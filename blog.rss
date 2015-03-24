@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Komodo Blogs</title>
+        <description>Komodo blog RSS feed.  </description>
+        <link>http://komodoide.com/blog/</link>
+        <language>en</language>
+        <webMaster>support@activestate.com (ActiveState Support)</webMaster>
+        <lastBuildDate>Mon, 23 Mar 2015 18:20:23 -0700</lastBuildDate>
+        <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>Komodo 9 RC Now Available!</title>
+                <link>http://komodoide.com/blog/2015-02/komodo-9-rc-release-now-available</link>
+                <pubDate>Thu, 19 Feb 2015 16:00:00 -0800</pubDate>
+                <description> We've completed the big feature work for Komodo IDE 9, and we'll focus on bug fixes and polishing for the final release, so please help us out by giving Komodo 9 release candidate a try and report any issues you run into.</description>
+                <guid>http://komodoide.com/blog/2015-02/komodo-9-rc-release-now-available</guid>
+            </item>
+            <item>
+                <title>Come and join the Komodo development team!</title>
+                <link>http://komodoide.com/blog/2015-02/join-the-komodo-team</link>
+                <pubDate>Tue, 3 Feb 2015 03:00:00 -0800</pubDate>
+                <description> We are looking for a really talented software engineer (aka developer) to join the Komodo team.</description>
+                <guid>http://komodoide.com/blog/2015-02/join-the-komodo-team</guid>
+            </item>
+            <item>
+                <title>Logging Time in Komodo with WakaTime</title>
+                <link>http://komodoide.com/blog/2015-01/logging-time-in-komodo-with-wakatime</link>
+                <pubDate>Sun, 4 Jan 2015 16:00:00 -0800</pubDate>
+                <description> I'm sure many of our users use time tracking software on a daily basis, using all sorts of tools to get the job done.</description>
+                <guid>http://komodoide.com/blog/2015-01/logging-time-in-komodo-with-wakatime</guid>
+            </item>
+            <item>
+                <title>Tracking Editor Changes in Komodo 9</title>
+                <link>http://komodoide.com/blog/2014-12/tracking-editor-changes-in-komodo</link>
+                <pubDate>Sun, 21 Dec 2014 16:00:00 -0800</pubDate>
+                <description> A change-tracker has been a common item on the Komodo wish-list for about as long as there's been a Komodo editor.</description>
+                <guid>http://komodoide.com/blog/2014-12/tracking-editor-changes-in-komodo</guid>
+            </item>
+            <item>
+                <title>Komodo 9 Beta Release Now Available!</title>
+                <link>http://komodoide.com/blog/2014-12/komodo-9-beta-release-now-available</link>
+                <pubDate>Thu, 18 Dec 2014 16:00:00 -0800</pubDate>
+                <description> We've completed most of the big feature work for Komodo IDE 9, and we'll mainly be focusing on bug fixes and polishing for the final release, so please help us out by giving Komodo 9 beta a try and report any issues you run into.</description>
+                <guid>http://komodoide.com/blog/2014-12/komodo-9-beta-release-now-available</guid>
+            </item>
+            <item>
+                <title>Go-lang Support for Komodo</title>
+                <link>http://komodoide.com/blog/2014-10/introducing-go-lang-support</link>
+                <pubDate>Sun, 14 Dec 2014 16:00:00 -0800</pubDate>
+                <description> There has been a Komodo Go add-on available for a while now, but for Komodo 9 will be including the go-lang add-on in the default Komodo builds and improving Komodo's support for go programming.</description>
+                <guid>http://komodoide.com/blog/2014-10/introducing-go-lang-support</guid>
+            </item>
+            <item>
+                <title>Live Markdown Preview in Komodo</title>
+                <link>http://komodoide.com/blog/2014-11/live-markdown-viewing-in-komodo</link>
+                <pubDate>Mon, 17 Nov 2014 16:00:00 -0800</pubDate>
+                <description> Since the Komodo team has been using GitHub more and more, we've been writing a lot more Markdown content.</description>
+                <guid>http://komodoide.com/blog/2014-11/live-markdown-viewing-in-komodo</guid>
+            </item>
+            <item>
+                <title>Komodo IDE Personal is Here to Stay!</title>
+                <link>http://komodoide.com/blog/2014-11/komodo-ide-personal-is-here-to-stay</link>
+                <pubDate>Thu, 6 Nov 2014 03:00:00 -0800</pubDate>
+                <description> Good news everyone! Since we introduced Komodo IDE Personal a few months ago as a limited time offer, we have received lots of great feedback.</description>
+                <guid>http://komodoide.com/blog/2014-11/komodo-ide-personal-is-here-to-stay</guid>
+            </item>
+            <item>
+                <title>Multi-row Editor Tabs for Komodo</title>
+                <link>http://komodoide.com/blog/2014-10/multi-row-editor-tabs</link>
+                <pubDate>Tue, 21 Oct 2014 17:00:00 -0700</pubDate>
+                <description> This is a JavaScript macro (best to set the macro to trigger on the Komodo startup event) that wraps your editor tabs into multiple rows, making all the tabs visible at once: https://github.com/Komodo/macros/blob/master/editor_tabs_multiple_rows.</description>
+                <guid>http://komodoide.com/blog/2014-10/multi-row-editor-tabs</guid>
+            </item>
+            <item>
+                <title>Enhancing Productivity with Command Line Applications through Komodo Macros</title>
+                <link>http://komodoide.com/blog/2014-10/enhancing-productivity-with-command-line-applications</link>
+                <pubDate>Thu, 16 Oct 2014 03:00:00 -0700</pubDate>
+                <description>     This blog was contributed by a community member     click here if you     are interested in blogging on komodoide.</description>
+                <guid>http://komodoide.com/blog/2014-10/enhancing-productivity-with-command-line-applications</guid>
+            </item>
+            <item>
+                <title>Introducing kopy.io</title>
+                <link>http://komodoide.com/blog/2014-10/introducing-kopy-io</link>
+                <pubDate>Tue, 14 Oct 2014 17:00:00 -0700</pubDate>
+                <description> Today we finally launched kopy.io after having had it in soft-launch for about 2 weeks. kopy.io is a new "service" for Komodo. Essentially it is a pastebin alternative with a bunch of little extras you likely wont find in other pastebin solutions.</description>
+                <guid>http://komodoide.com/blog/2014-10/introducing-kopy-io</guid>
+            </item>
+            <item>
+                <title>The History of Komodo, A Trip Down Memory Lane</title>
+                <link>http://komodoide.com/blog/2014-09/the-history-of-komodo</link>
+                <pubDate>Wed, 10 Sep 2014 17:00:00 -0700</pubDate>
+                <description>     Jump To:                            Version 0.x - 2000 to 2001                               Version 1.x - 2001 to 2002                               Version 2.x - 2002 to 2004                               Version 3.</description>
+                <guid>http://komodoide.com/blog/2014-09/the-history-of-komodo</guid>
+            </item>
+            <item>
+                <title>Macro for Toggling Editor Comments</title>
+                <link>http://komodoide.com/blog/2014-09/comment-toggle</link>
+                <pubDate>Sun, 7 Sep 2014 17:00:00 -0700</pubDate>
+                <description>  This is an on-demand Python macro (most useful with a keybinding) that will allow you to toggle comments on/off over the selected editor lines (or the current editor line when there is no selection).</description>
+                <guid>http://komodoide.com/blog/2014-09/comment-toggle</guid>
+            </item>
+            <item>
+                <title>Komodo 8.5.4 release is now available</title>
+                <link>http://komodoide.com/blog/2014-08/komodo-854-release</link>
+                <pubDate>Wed, 20 Aug 2014 17:00:00 -0700</pubDate>
+                <description> On behalf of the Komodo team, I am happy to announce the release of Komodo 8.5.4. This build contains important bug fixes and is a recommended update for all Komodo 8 users.</description>
+                <guid>http://komodoide.com/blog/2014-08/komodo-854-release</guid>
+            </item>
+            <item>
+                <title>Print to the Komodo Output Tab</title>
+                <link>http://komodoide.com/blog/2014-08/print-to-komodo-output-tab</link>
+                <pubDate>Mon, 18 Aug 2014 03:00:00 -0700</pubDate>
+                <description>  I came across a macro that Eric Promislow had written a few years ago that seemed pretty interesting, How do you write to the Command Output Window? Its a bit out dated since Mark Yen added customizable tab layouts but that was an easy fix.</description>
+                <guid>http://komodoide.com/blog/2014-08/print-to-komodo-output-tab</guid>
+            </item>
+    </channel>
+</rss>
