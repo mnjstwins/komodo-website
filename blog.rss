@@ -6,8 +6,15 @@
         <link>http://komodoide.com/blog/</link>
         <language>en</language>
         <webMaster>support@activestate.com (ActiveState Support)</webMaster>
-        <lastBuildDate>Tue, 24 Mar 2015 06:02:29 -0700</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2015 07:14:29 -0700</lastBuildDate>
         <generator>Middleman 3.3.10</generator>
+            <item>
+                <title>Komodo 9 Released: Better, Faster, Stronger</title>
+                <link>http://komodoide.com/blog/komodo-9-released-better-faster-stronger</link>
+                <pubDate>Mon, 23 Mar 2015 17:00:00 -0700</pubDate>
+                <description> We're happy to announce that we've just released Komodo 9, so we're celebrating the evolution of Komodo: now better, faster, and stronger than ever! On top of already being a multi-language, cross-platform, kick-a$$ IDE, **new features in Komodo 9**...</description>
+                <guid>http://komodoide.com/blog/komodo-9-released-better-faster-stronger</guid>
+            </item>
             <item>
                 <title>Komodo 9 RC Now Available!</title>
                 <link>http://komodoide.com/blog/2015-02/komodo-9-rc-release-now-available</link>
@@ -105,13 +112,6 @@
                 <pubDate>Wed, 20 Aug 2014 17:00:00 -0700</pubDate>
                 <description> On behalf of the Komodo team, I am happy to announce the release of Komodo 8.5.4. This build contains important bug fixes and is a recommended update for all Komodo 8 users.</description>
                 <guid>http://komodoide.com/blog/2014-08/komodo-854-release</guid>
-            </item>
-            <item>
-                <title>Print to the Komodo Output Tab</title>
-                <link>http://komodoide.com/blog/2014-08/print-to-komodo-output-tab</link>
-                <pubDate>Mon, 18 Aug 2014 03:00:00 -0700</pubDate>
-                <description>  I came across a macro that Eric Promislow had written a few years ago that seemed pretty interesting, How do you write to the Command Output Window? Its a bit out dated since Mark Yen added customizable tab layouts but that was an easy fix.</description>
-                <guid>http://komodoide.com/blog/2014-08/print-to-komodo-output-tab</guid>
             </item>
     </channel>
 </rss>
