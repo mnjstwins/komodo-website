@@ -181,15 +181,22 @@
             </a>
         </dd>
         
+        <dt>Version</dt>
+        <dd>
+            <span>
+                0.1.2 -- After a bunch of small stuff 
+            </span>
+            <a href="https://github.com/jacoby/RLangSyntax/releases/tag/0.1.2">view</a>
+        </dd>
 
         <dt>Created</dt>
         <dd title="2014-02-13T15:24:40Z">
-            58 weeks ago
+            59 weeks ago
         </dd>
 
         <dt>Updated</dt>
-        <dd title="2014-02-13T15:51:24Z">
-            58 weeks ago
+        <dd title="2015-03-30T19:25:40Z">
+            2 days ago
         </dd>
 
 
@@ -202,7 +209,7 @@
 
         <dt>Issues</dt>
         <dd>
-            <span>1</span>
+            <span>0</span>
             <a href="https://github.com/jacoby/RLangSyntax/issues">view</a>
         </dd>
 
@@ -213,7 +220,7 @@
 
         <dt>Downloads</dt>
         <dd>
-            <span>0</span>
+            <span>3</span>
             <a href="https://github.com/jacoby/RLangSyntax/releases">view</a>
         </dd>
     
@@ -227,11 +234,29 @@
 
 <div class="download">
     <h2>Download</h2>
-        <div class="files">
-            <a href="https://github.com/jacoby/RLangSyntax/archive/master.zip" class="button big primary">
-                <i class="icon icon-download"></i>
-                Download Source
-            </a>
+        <div class="releases">
+        <!-- release = resource.releases.each_with_index() do |release,k| -->
+            <div class="release  0" id="release-1107297">
+                <p>This is the XPI for R syntax highlighting in KomodoEdit and KomodoIDE. 
+
+There is _something_ going on with this so that it doesn't install. Use 0.1.1 until a replacement release is available.</p>
+                <div class="files centered">
+                       <div class="assets">
+                               <div>
+                               <a href="https://github.com/jacoby/RLangSyntax/releases/download/0.1.2/jacoby.david.rlangsyntax-0.1.2-ko.xpi" class="button big primary">
+                                   <i class="icon icon-download"></i>
+                                   Download "jacoby.david.rlangsyntax-0.1.2-ko.xpi"
+                               </a>
+                               </div>
+                       </div>
+                   <div class="source">
+                       <a href="https://github.com/jacoby/RLangSyntax/archive/0.1.2 -- After a bunch of small stuff .zip" class="button">
+                           <i class="icon icon-download"></i>
+                           Download Source
+                       </a>
+                   </div>
+                </div>
+            </div>
         </div>
 </div>
 
@@ -259,7 +284,21 @@ Plus one step more: I put it on GitHub!</p>
 <p>The UDL I forked from the abandoned SciViews code is MPL 1.1/GPL 2.0/LGPL 2.1,
 so I suppose this has to be the same.</p>
 
-<p>TODO: Build documentation, adding more pizzazz to highlighting.</p>
+<p>BUILD:</p>
+
+<p>Assuming you&#39;ve pulled this into ~/dev/RLangSyntax and your Komodo install is in
+~/opt/Komodo, you can build this yourself with the following command:</p>
+
+<pre><code>cd ~/dev/RLangSyntax
+~/opt/Komodo/lib/sdk/bin/koext build --unjarred
+</code></pre>
+
+<p>DOWNLOAD:</p>
+
+<p>Newest XPI is in https://github.com/jacoby/RLangSyntax/releases</p>
+
+<p>Thanks to the Komodo developers, who are giving me a practical short course in 
+developing on GitHub today.</p>
 
         </div>
     <div id="comments" class="comments">

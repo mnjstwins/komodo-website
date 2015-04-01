@@ -1885,6 +1885,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/resources/languages/creiht--makotemplatehighlighting/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/languages/jacoby--rlanguage/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/resources/languages/komodo--golang/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1904,18 +1916,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/resources/languages/komodo--dita/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/languages/jacoby--rlanguage/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/languages/creiht--makotemplatehighlighting/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2005,6 +2005,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://komodoide.com/resources/addons/wakatime--wakatime/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/addons/agroszer--exuberantctagssupport/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://komodoide.com/resources/addons/1ec5--avim/</loc>
+    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://komodoide.com/resources/addons/agroszer--qwin/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2023,12 +2041,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/1ec5--avim/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/resources/addons/htd--newsourcetree/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2036,12 +2048,6 @@
   </url>
   <url>
     <loc>http://komodoide.com/resources/addons/manngo--htmltools/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://komodoide.com/resources/addons/wakatime--wakatime/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2119,12 +2125,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/agroszer--exuberantctagssupport/</loc>
-    <lastmod>2015-03-23T17:45:58-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://komodoide.com/resources/addons/komodo--dita/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2149,13 +2149,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/todd whiteman--remotedrivetree/</loc>
+    <loc>http://komodoide.com/resources/addons/todd whiteman--komododeveloperextension/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://komodoide.com/resources/addons/todd whiteman--komododeveloperextension/</loc>
+    <loc>http://komodoide.com/resources/addons/todd whiteman--remotedrivetree/</loc>
     <lastmod>2015-03-23T17:45:58-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
